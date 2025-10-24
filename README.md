@@ -1,4 +1,14 @@
 ## Hi there 👋
+I'm Charlie, a student at the University of Chicago passionate about ML and game development. Previously, I published my game, [Off Trail](https://store.steampowered.com/app/3218090/Off_Trail/), on Steam and am working on my next big project, Floating Frontiers. 
+
+# Skills
+- Python
+- C#
+- Unity
+- Tensorflow
+- React
+- Java
+- Blender
 
 <!--
 **ThatCharlieK/ThatCharlieK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

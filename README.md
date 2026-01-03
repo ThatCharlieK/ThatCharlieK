@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Charlie, a student at the University of Chicago passionate about ML and game development. Previously, I published my game, [Off Trail](https://store.steampowered.com/app/3218090/Off_Trail/), on Steam and am working on my next big project, [Floating Frontiers](https://store.steampowered.com/app/4034080/Floating_Frontiers/). 
+I'm Charlie, a student at the University of Chicago passionate about ML and game development. Previously, I published my open world skiing game, [Off Trail](https://store.steampowered.com/app/3218090/Off_Trail/), on Steam in 2024 and am working on a minimalist city building game, [Floating Frontiers](https://store.steampowered.com/app/4034080/Floating_Frontiers/), expected to release in spring 2026.
 
 # Skills
 - Python

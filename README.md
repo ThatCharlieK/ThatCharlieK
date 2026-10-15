@@ -1,26 +1,35 @@
 ## Hi there 👋
-I'm Charlie, a student at the University of Chicago passionate about ML and game development. Previously, I developed and published an open world skiing game, [Off Trail](https://store.steampowered.com/app/3218090/Off_Trail/), on Steam in 2024 and am working on a minimalist city building game, [Floating Frontiers](https://store.steampowered.com/app/4034080/Floating_Frontiers/), expected to release in spring 2026.
 
-# Skills
-- Python
-- C#
-- Unity
-- Tensorflow
-- React
-- Java
-- Blender
+I'm Charlie, a student at the University of Chicago interested in ML and game development. Previously I developed and published both of these games to Steam:
 
-<!--
-**ThatCharlieK/ThatCharlieK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://store.steampowered.com/app/4034080/Floating_Frontiers/">
+        <img src="assets/floating-frontiers.gif" alt="Floating Frontiers gameplay" width="100%">
+      </a>
+      <br>
+      <a href="https://store.steampowered.com/app/4034080/Floating_Frontiers/"><b>Floating Frontiers</b></a> · 2026
+      <br>
+      <sub>A minimalist city builder about growing an infinite floating town.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://store.steampowered.com/app/3218090/Off_Trail/">
+        <img src="assets/off-trail.gif" alt="Off Trail gameplay" width="100%">
+      </a>
+      <br>
+      <a href="https://store.steampowered.com/app/3218090/Off_Trail/"><b>Off Trail</b></a> · 2024
+      <br>
+      <sub>A procedurally generated, infinite downhill skiing game.</sub>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Now
+- ML Engineer at Thrixel: The AI 3D Model Generator for Your Coding Agent
+- Studying CS/Math @ UChicago
+### Current Interests
+Currently I am interested in:
+- 3D deep learning
+- Agentic game and asset creation
+- Sim RL for robotics

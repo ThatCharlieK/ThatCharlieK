@@ -29,7 +29,6 @@ I'm Charlie, a student at the University of Chicago interested in ML and game de
 - ML Engineer at Thrixel: The AI 3D Model Generator for Your Coding Agent
 - Studying CS/Math @ UChicago
 ### Current Interests
-Currently I am interested in:
 - 3D deep learning
 - Agentic game and asset creation
 - Sim RL for robotics
